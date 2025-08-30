@@ -1,5 +1,5 @@
 # SQL_Exploratory_Data_Analysis_Project
-Building a Exploratory Data Analysis (EDA) script using MySQL, which demonstrates data cleaning, aggregation, and statistical techniques to extract actionable insights. It simulates a real-world data analysis workflow, starting from dataset preparation and moving through data exploration, summary statistics, and actionable insights.\
+Building a Exploratory Data Analysis (EDA) script using MySQL, which demonstrates data cleaning, aggregation, and statistical techniques to extract actionable insights. It simulates a real-world data analysis workflow, starting from dataset preparation and moving through data exploration, summary statistics, and actionable insights.
 
 ** Project Overview This project involves:
 
