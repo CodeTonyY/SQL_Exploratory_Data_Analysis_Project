@@ -23,7 +23,7 @@ Building a Exploratory Data Analysis (EDA) script using MySQL, which demonstrate
 * Learn how to clean, summarize, and interpret datasets with MySQL
 * Understand how SQL fits into the data analysis workflow
 
-* ** License
+** License
 
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
